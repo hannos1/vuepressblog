@@ -15,7 +15,7 @@ tags:
 
 ## reactive的原理
 **首先请看一张图片**
-![vue响应式原理.png](/vue响应式原理.png)
+![vue响应式原理.png](/asset/vueactive.png)
 从这张图片中我们可以看到一个`reactive`对象从定义到响应的过程，如果您第一次学习vue源码，您可能会觉得一头雾水。这里我尽量用简单的文字来描述这个过程，这个过程大概是这样的：
 
 - 对象`{num:1,num2:2}`经过reactive()声明后被[`Proxy`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Proxy)包裹
