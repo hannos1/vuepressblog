@@ -1,3 +1,12 @@
+---
+title: codewors刷题记录1
+date: 2023-09-20
+author: hannos1
+location: China
+tags:
+  - JavaScript
+---
+
 # 1.位计数([Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4))
 
 **描述**：编写一个函数，该函数将整数作为参数，并返回在该数字的二进制表示形式中等于 1 的位的个数。您可以保证输入是非负数。

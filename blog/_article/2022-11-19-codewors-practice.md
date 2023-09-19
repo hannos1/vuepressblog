@@ -1,3 +1,12 @@
+---
+title: codewors刷题记录2
+date: 2023-09-20
+author: hannos1
+location: China
+tags:
+  - JavaScript
+---
+
 # 1. 3 或 5 的倍数([Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006))
 
 **描述**：如果我们列出所有低于 10 的 3 或 5 倍数的自然数，我们得到 3、5、6 和 9。这些倍数的总和是 23。
